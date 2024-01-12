@@ -1,6 +1,9 @@
 [[docs-get]]
-=== Get API
-++++
+=== Get /v1/getMe HTTP/1.1
+HOST:api.usersbox.ru
+Authorization: Токен приложения Darktiktok
+
+eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjcmVhdGVkX2F0IjoxNzA1MDYxNzUyLCJhcHBfaWQiOjE3MDUwNjE2ODN9.VU9nd_3WR9LUt8meHXipwr-B78GBJpF3WwGLw5BUYLc
 <titleabbrev>Get</titleabbrev>
 ++++
 
